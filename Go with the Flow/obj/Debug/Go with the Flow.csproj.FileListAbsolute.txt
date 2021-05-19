@@ -1,0 +1,115 @@
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csprojAssemblyReference.cache
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\MainWindow.g.cs
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\App.g.cs
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow_MarkupCompile.cache
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow_MarkupCompile.lref
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.exe.config
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.exe
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.pdb
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignColors.dll
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\bin\Debug\ShowMeTheXAML.dll
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\App.baml
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\MainWindow.baml
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.g.resources
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\Go_with_the_Flow.Properties.Resources.resources
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.GenerateResource.cache
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.CoreCompileInputs.cache
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.CopyComplete
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.exe
+C:\Users\Brock\Documents\Courses\Programming Software Dev Tech\Week 12\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.pdb
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csprojAssemblyReference.cache
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\MainWindow.g.cs
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\App.g.cs
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow_MarkupCompile.cache
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow_MarkupCompile.lref
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.exe
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.pdb
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.exe.config
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.exe
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.pdb
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignColors.dll
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\bin\Debug\ShowMeTheXAML.dll
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignColors.pdb
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\App.baml
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\MainWindow.baml
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.g.resources
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\Go_with_the_Flow.Properties.Resources.resources
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.GenerateResource.cache
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.CoreCompileInputs.cache
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.1\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.CopyComplete
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.exe.config
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.exe
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.pdb
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignColors.dll
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\bin\Debug\ShowMeTheXAML.dll
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignColors.pdb
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csprojAssemblyReference.cache
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\MainWindow.g.cs
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\App.g.cs
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow_MarkupCompile.cache
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow_MarkupCompile.lref
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\App.baml
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\MainWindow.baml
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.g.resources
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\Go_with_the_Flow.Properties.Resources.resources
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.GenerateResource.cache
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.CoreCompileInputs.cache
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.CopyComplete
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.exe
+C:\Users\xingw\Desktop\8010\Go with the Flow 1.2\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.pdb
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.exe.config
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.exe
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.pdb
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignColors.dll
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\ShowMeTheXAML.dll
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignColors.pdb
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csprojAssemblyReference.cache
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\MainWindow.g.cs
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\App.g.cs
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow_MarkupCompile.cache
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow_MarkupCompile.lref
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\App.baml
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\MainWindow.baml
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.g.resources
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go_with_the_Flow.Properties.Resources.resources
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.GenerateResource.cache
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.CoreCompileInputs.cache
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.CopyComplete
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.exe
+C:\Users\xingw\Desktop\8010\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.pdb
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.exe.config
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.exe
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\Go with the Flow.pdb
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignColors.dll
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\ShowMeTheXAML.dll
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignColors.pdb
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csprojAssemblyReference.cache
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\MainWindow.g.cs
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\App.g.cs
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow_MarkupCompile.cache
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow_MarkupCompile.lref
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\App.baml
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\MainWindow.baml
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.g.resources
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go_with_the_Flow.Properties.Resources.resources
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.GenerateResource.cache
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.CoreCompileInputs.cache
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.csproj.CopyComplete
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.exe
+C:\Users\nikun\Downloads\Go with the Flow\Go with the Flow\Go with the Flow\Go with the Flow\obj\Debug\Go with the Flow.pdb

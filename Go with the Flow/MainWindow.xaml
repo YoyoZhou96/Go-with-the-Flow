@@ -1,0 +1,84 @@
+﻿<!-- Author:Yao Zhou -->
+
+<!--d:DataContext="{d:DesignInstance Type=local:MainWindow}"-->
+
+<Window x:Class="Go_with_the_Flow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Go_with_the_Flow"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" d:DataContext="{d:DesignInstance Type=local:MainWindow}"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="{Binding Title}" Height="450" Width="800" Icon="RiverIcon.png">
+    <Grid x:Name="app" Margin="20">
+        <Grid.Resources>
+            <CornerRadius x:Key= "ControlCornerRadius">8</CornerRadius>
+        </Grid.Resources>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="title" Grid.Column="0" Grid.Row="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="30" Grid.ColumnSpan="4" ></Label>
+
+        <materialDesign:Card Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="4" Grid.RowSpan="4" Margin="12">
+            <TextBlock  Style="{DynamicResource MaterialDesignTextBlock}" TextWrapping="WrapWithOverflow"  Text="{Binding Paragraph}" TextAlignment="Left"/>
+        </materialDesign:Card>
+        
+        <Button x:Name="ImportFile" Grid.Column="0" Grid.Row="1" Margin="6" FontSize="15" Click="ImportFile_Click">Open File</Button>
+        <Button x:Name="Clear" Grid.Column="4" Grid.Row="1" Margin="6" FontSize="15" Click="Clear_Click">Clear</Button>
+
+        <materialDesign:Card Grid.Column="0" Grid.Row="6" Margin="12" UniformCornerRadius="3">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="words" Grid.Column="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="15">Number of words:</Label>
+            <Label x:Name="NumWords" Grid.Column="1" VerticalContentAlignment="Center" FontSize="15" Content="{Binding NumWords}" HorizontalContentAlignment="Right"></Label>
+        </Grid>
+        </materialDesign:Card>
+
+        <materialDesign:Card  Grid.Column="1" Grid.Row="6" Margin="12">
+                <Grid >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="width" Grid.Column="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="15">Line Width:</Label>
+            <Label x:Name="LineWidth" Grid.Column="1" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" FontSize="15" Content="{Binding LineWidth}"></Label>
+        </Grid>
+        </materialDesign:Card>
+
+        <materialDesign:Card Grid.Column="2" Grid.Row="6" Margin="12">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label x:Name="river" Grid.Column="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="15">River Length:</Label>
+                <Label x:Name="RiverLength" Grid.Column="1" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" FontSize="15" Content="{Binding RiverLength}"></Label>
+            </Grid>
+        </materialDesign:Card>
+        
+    </Grid>
+</Window>
